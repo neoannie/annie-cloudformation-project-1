@@ -1,0 +1,3 @@
+aws cloudformation create-stack ^
+  --stack-Annie Singson-firstStack ^
+  --template-body file: 
