@@ -1,3 +1,4 @@
 aws cloudformation create-stack ^
   --stack-Annie Singson-firstStack ^
   --template-body file: 
+  --region us-west-1

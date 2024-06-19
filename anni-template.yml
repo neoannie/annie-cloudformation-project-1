@@ -7,4 +7,4 @@ Resources:
       AvailabilityZone: us-west-1a 
       Tags:
         - Key: Name
-          Value: Annie Singson #this is a cloudformation Homework
+          Value: Annie Singson #this is a cloudformation Homeworka
