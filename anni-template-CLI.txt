@@ -1,4 +1,4 @@
 aws cloudformation create-stack ^
   --stack-Annie Singson-firstStack ^
-  --template-body file: 
+  --template-body file: /c/Users/14435/Documents/annie-cloudformation-project-1/anni-template.yml
   --region us-west-1
